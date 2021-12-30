@@ -1,0 +1,34 @@
+
+rainbow_spacman.png
+size: 2048,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+spacman_blue
+  rotate: false
+  xy: 463, 2
+  size: 459, 459
+  orig: 459, 459
+  offset: 0, 0
+  index: -1
+spacman_green
+  rotate: false
+  xy: 1385, 2
+  size: 459, 459
+  orig: 459, 459
+  offset: 0, 0
+  index: -1
+spacman_red
+  rotate: false
+  xy: 2, 2
+  size: 459, 459
+  orig: 459, 459
+  offset: 0, 0
+  index: -1
+spacman_yellow
+  rotate: false
+  xy: 924, 2
+  size: 459, 459
+  orig: 459, 459
+  offset: 0, 0
+  index: -1

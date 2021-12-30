@@ -1,0 +1,19 @@
+up_with_axe.png
+size: 598, 1195
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Picture10
+  rotate: false
+  xy: 1, 1
+  size: 596, 596
+  orig: 596, 596
+  offset: 0, 0
+  index: -1
+Picture11
+  rotate: false
+  xy: 1, 599
+  size: 596, 595
+  orig: 596, 595
+  offset: 0, 0
+  index: -1

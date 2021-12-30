@@ -1,0 +1,9 @@
+5
+7
+3:1:(1,rock)
+7:1:(1,pit)
+8:1:(1,coin)
+10:4:(0.1,rupee)(x,coin)(x,rock)(x,streetlight)
+15:1:(1,entity_name)
+30:3:(0.5,streetlight)(0.3,sand)(0.2,rupee)
+32:1:(1,rupee)

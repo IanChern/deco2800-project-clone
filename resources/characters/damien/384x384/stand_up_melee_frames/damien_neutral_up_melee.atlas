@@ -1,0 +1,33 @@
+damien_neutral_up_melee.png
+size: 386, 1538
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+stand_melee
+  rotate: false
+  xy: 1, 1
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: 1
+stand_melee
+  rotate: false
+  xy: 1, 387
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: 2
+stand_melee
+  rotate: false
+  xy: 1, 773
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: 3
+stand_melee
+  rotate: false
+  xy: 1, 1159
+  size: 384, 378
+  orig: 384, 378
+  offset: 0, 0
+  index: 4

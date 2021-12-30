@@ -1,0 +1,27 @@
+
+chalice_active.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+1of3
+  rotate: false
+  xy: 2, 2
+  size: 195, 320
+  orig: 195, 320
+  offset: 0, 0
+  index: -1
+2of3
+  rotate: false
+  xy: 199, 2
+  size: 195, 320
+  orig: 195, 320
+  offset: 0, 0
+  index: -1
+3of3
+  rotate: false
+  xy: 396, 2
+  size: 195, 320
+  orig: 195, 320
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,10 @@
+diff a/src/main/java/deco2800/spooky/worlds/ReadSerialisation.java b/src/main/java/deco2800/spooky/worlds/ReadSerialisation.java	(rejected hunks)
+@@ -149,7 +149,7 @@
+                 }
+                 lines.add(line);
+ 
+-                // lines are now tiles 
++                // lines are now tiles
+                 int i;
+                 for (i = 0; i < numLines; i++) {
+                     if (((line = b.readLine()) == null) || (!verifyTile(line, layers))) {

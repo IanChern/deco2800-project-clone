@@ -1,0 +1,7 @@
+{"entities": [{"objectName":"staticEntityID","children":{"20.000000, 20.000000":"ark_still"},"texture":"ark_still","entityID":3,"rowPos":20.0,"colPos":20.0},
+{"objectName":"staticEntityID","children":{"-20.000000, -20.000000":"cross_still"},"texture":"cross_still","entityID":5,"rowPos":-20.0,"colPos":-20.0},
+{"objectName":"staticEntityID","children":{"0.000000, 0.000000":"chalice_still"},"texture":"chalice_still","entityID":7,"rowPos":0.0,"colPos":0.0},
+{"objectName":"staticEntityID","children":{"0.000000, 20.000000":"ankh_still"},"texture":"ankh_still","entityID":9,"rowPos":20.0,"colPos":0.0}
+],"tiles": [{"texture":"grass_1_0","obstructed":false,"index":-1,"tileID":1953,"rowPos":1.0,"colPos":1.0},
+{"texture":"grass_1_0","obstructed":false,"index":-1,"tileID":1954,"rowPos":5.0,"colPos":4.0}
+]}

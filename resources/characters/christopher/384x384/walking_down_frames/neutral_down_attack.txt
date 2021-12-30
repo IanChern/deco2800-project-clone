@@ -1,0 +1,33 @@
+neutral_down_attack.png
+size: 688, 190
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+walking_left1
+  rotate: false
+  xy: 1, 1
+  size: 170, 188
+  orig: 384, 384
+  offset: 113, 131
+  index: -1
+walking_left2
+  rotate: false
+  xy: 173, 1
+  size: 170, 188
+  orig: 384, 384
+  offset: 113, 131
+  index: -1
+walking_left3
+  rotate: false
+  xy: 345, 1
+  size: 170, 188
+  orig: 384, 384
+  offset: 113, 131
+  index: -1
+walking_left4
+  rotate: false
+  xy: 517, 1
+  size: 170, 188
+  orig: 384, 384
+  offset: 113, 131
+  index: -1

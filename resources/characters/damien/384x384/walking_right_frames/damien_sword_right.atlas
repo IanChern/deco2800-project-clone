@@ -1,0 +1,12 @@
+damien_sword_down.png
+size: 2048, 512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+damien_right_sword
+  rotate: false
+  xy: 0, 0
+  size: 2048, 512
+  orig: 2048, 512
+  offset: 0, 0
+  index: -1

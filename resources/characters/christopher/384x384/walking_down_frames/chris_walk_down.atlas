@@ -1,0 +1,19 @@
+chris_walk_down.png
+size: 332, 208
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+walking_down1
+  rotate: false
+  xy: 1, 1
+  size: 164, 206
+  orig: 384, 384
+  offset: 101, 113
+  index: -1
+walking_down2
+  rotate: false
+  xy: 167, 1
+  size: 164, 206
+  orig: 384, 384
+  offset: 101, 113
+  index: -1

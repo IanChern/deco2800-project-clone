@@ -1,0 +1,20 @@
+
+larry_walk_down.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+walking_down1
+  rotate: false
+  xy: 2, 2
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1
+walking_down2
+  rotate: false
+  xy: 388, 2
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1

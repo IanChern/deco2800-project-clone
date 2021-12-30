@@ -1,0 +1,33 @@
+chris_walk_right.png
+size: 688, 190
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+walking_right1
+  rotate: false
+  xy: 1, 1
+  size: 170, 188
+  orig: 384, 384
+  offset: 89, 131
+  index: -1
+walking_right2
+  rotate: false
+  xy: 173, 1
+  size: 170, 188
+  orig: 384, 384
+  offset: 89, 131
+  index: -1
+walking_right3
+  rotate: false
+  xy: 345, 1
+  size: 170, 188
+  orig: 384, 384
+  offset: 89, 131
+  index: -1
+walking_right4
+  rotate: false
+  xy: 517, 1
+  size: 170, 188
+  orig: 384, 384
+  offset: 89, 131
+  index: -1

@@ -1,0 +1,21 @@
+diff a/src/main/java/deco2800/spooky/worlds/RandomWorld.java b/src/main/java/deco2800/spooky/worlds/RandomWorld.java	(rejected hunks)
+@@ -37,18 +37,8 @@
+             this.room = room;
+         }
+ 
+-        public RoomCoord(Room room, int x, int y) {
+-            this.x = x;
+-            this.y = y;
+-            this.room = room;
+-        }
+-
+-        public RoomCoord() {
+-            this.x = this.y = 0;
+-            this.room = null;
+-        }
+     }
+-    
++
+     private boolean notGenerated = true;
+ 
+     // this is a default value

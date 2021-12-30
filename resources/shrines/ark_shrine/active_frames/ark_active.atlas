@@ -1,0 +1,27 @@
+
+ark_active.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+A
+  rotate: false
+  xy: 2, 2
+  size: 195, 295
+  orig: 195, 295
+  offset: 0, 0
+  index: -1
+B
+  rotate: false
+  xy: 199, 2
+  size: 195, 300
+  orig: 195, 300
+  offset: 0, 0
+  index: -1
+C
+  rotate: false
+  xy: 396, 2
+  size: 195, 295
+  orig: 195, 295
+  offset: 0, 0
+  index: -1

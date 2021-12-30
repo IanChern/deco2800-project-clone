@@ -1,0 +1,9 @@
+5
+7
+3:1:(1,rupee)
+7:1:(1,rock)
+8:1:(1,pit)
+10:4:(0.1,rock)(x,streetlight)(x,coin)(x,rupee)
+15:1:(1,coin)
+30:3:(0.5,pot)(0.3,rock)(0.2,rupee)
+32:1:(1,pot)

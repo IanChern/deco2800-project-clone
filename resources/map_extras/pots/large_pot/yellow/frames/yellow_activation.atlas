@@ -1,0 +1,41 @@
+
+yellow_activation.png
+size: 2048,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+1of5
+  rotate: false
+  xy: 1546, 2
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1
+2of5
+  rotate: false
+  xy: 388, 2
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1
+3of5
+  rotate: false
+  xy: 1160, 2
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1
+4of5
+  rotate: false
+  xy: 2, 2
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1
+5of5
+  rotate: false
+  xy: 774, 2
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1

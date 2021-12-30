@@ -1,0 +1,12 @@
+damien_walk_up_sword.png
+size: 1026, 514
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+damien_walk_up_sword
+  rotate: false
+  xy: 1, 1
+  size: 1024, 512
+  orig: 1024, 512
+  offset: 0, 0
+  index: -1
